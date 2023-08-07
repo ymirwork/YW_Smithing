@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YT_Smithing">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="YT_Smithing.jar">
+      <element id="module-output" name="YW_Smithing" />
+    </root>
+  </artifact>
+</component>
